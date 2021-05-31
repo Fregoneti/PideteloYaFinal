@@ -1,0 +1,7 @@
+{
+  "name": "PideloYa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
